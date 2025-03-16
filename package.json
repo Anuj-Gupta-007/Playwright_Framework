@@ -1,0 +1,17 @@
+{
+  "name": "amazonpw_js",
+  "version": "1.0.0",
+  "description": "Amazon Automation with Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
